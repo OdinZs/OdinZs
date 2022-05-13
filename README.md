@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OdinZs
+- 👀 I’m interested in Etchical Hacking
+- 🌱 I’m currently learning Python2/3
